@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Pandas and Tensorflow
 - 💞️ I’m looking to collaborate with a senior AI engineer who can guide me
 - 📫 How to reach me debeshghorui@gmail.com
-- 😄 Pronouns: Debdsh Ghori
+- 😄 Pronouns: Debdsh Ghorui
 - ⚡ Fun fact: ...
 <p align="left">
 <p align="left">

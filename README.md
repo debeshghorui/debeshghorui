@@ -31,10 +31,9 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 
 <table align="center">
-
-### 💻 Programming Languages
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
@@ -59,9 +58,9 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
   </tr>
 </table>
 
-<table align="center">
-
 ### 🔥 Core Skills (Proficient)
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -108,10 +107,9 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
   </tr>
 </table>
 
+### 💪 Working Knowledge
 
 <table align="center">
-
-### 💪 Working Knowledge
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
@@ -158,9 +156,9 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
   </tr>
 </table>
 
-<table align="center">
-
 ### 🌱 Currently Learning (AI/ML Focus)
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
@@ -181,9 +179,9 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
   </tr>
 </table>
 
-<table align="center">
-
 ### 🎓 Familiar With
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />

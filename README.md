@@ -31,9 +31,10 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
 
 <table align="center">
+
+### 💻 Programming Languages
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
@@ -58,9 +59,9 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
   </tr>
 </table>
 
-### 🔥 Core Skills (Proficient)
-
 <table align="center">
+
+### 🔥 Core Skills (Proficient)
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -107,9 +108,10 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
   </tr>
 </table>
 
-### 💪 Working Knowledge
 
 <table align="center">
+
+### 💪 Working Knowledge
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
@@ -156,9 +158,9 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
   </tr>
 </table>
 
-### 🌱 Currently Learning (AI/ML Focus)
-
 <table align="center">
+
+### 🌱 Currently Learning (AI/ML Focus)
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
@@ -179,9 +181,9 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
   </tr>
 </table>
 
-### 🎓 Familiar With
-
 <table align="center">
+
+### 🎓 Familiar With
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
@@ -215,19 +217,6 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debeshghorui&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🚀 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debeshghorui&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/debeshghorui/EcoNirvana)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debeshghorui&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/debeshghorui/YOUR_REPO_NAME)
-
 </div>
 
 ---

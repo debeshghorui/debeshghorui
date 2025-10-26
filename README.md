@@ -20,6 +20,8 @@
 
 ## 🎯 About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** and **GenAI applications**. I love building modern, scalable web applications and exploring how artificial intelligence can transform the way we interact with technology.
 
 - 🎓 Passionate about artificial intelligence and machine learning

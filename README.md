@@ -37,7 +37,7 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
-      <br>C / C++
+      <br>C/C++
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />

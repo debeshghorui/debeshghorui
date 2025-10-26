@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="BannerImage.png" alt="Banner Image" style="border-radius: 15px;" />
-</div>
+# Hi there, I'm Debesh! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Debesh+Ghorui;AI+%26+ML+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full-Stack+Web+Developer;GenAI+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -33,15 +31,13 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
-      <br>C++
+      <br>C / C++
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
@@ -60,6 +56,11 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
       <br>TypeScript
     </td>
   </tr>
+</table>
+
+### 🔥 Core Skills (Proficient)
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -74,42 +75,12 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-      <br>Jest
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="48" height="48" alt="Prettier" />
-      <br>Prettier
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RestAPI" />
-      <br>RestAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
     </td>
   </tr>
   <tr>
@@ -122,49 +93,58 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
   </tr>
+</table>
+
+### 💪 Working Knowledge
+
+<table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      <br>NumPy
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-      <br>Anaconda
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="MSSQL" />
-      <br>MSSQL
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
     </td>
   </tr>
   <tr>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RestAPI" />
+      <br>RestAPI
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       <br>Firebase
@@ -173,52 +153,54 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
       <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
       <br>Supabase
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHubActions" />
-      <br>GitHubActions
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins
-    </td>
   </tr>
+</table>
+
+### 🌱 Currently Learning (AI/ML Focus)
+
+<table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      <br>Vercel
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-      <br>Netlify
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+  </tr>
+</table>
+
+### 🎓 Familiar With
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-      <br>GCP
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br>GitHub Actions
     </td>
   </tr>
 </table>
 
 <br/>
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -237,15 +219,29 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
 
 ---
 
+## 💼 Featured Projects
+
+<div align="center">
+
+### 🚀 Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debeshghorui&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/debeshghorui/EcoNirvana)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debeshghorui&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/debeshghorui/YOUR_REPO_NAME)
+
+</div>
+
+---
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-  
+
 ### 💭 Random Dev Quote
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   **Thanks for stopping by! Let's build something amazing together** 🚀
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
 </div>

@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="BannerImage.png" alt="Banner Image" style="border-radius: 15px;" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Debesh+Ghorui;AI+%26+ML+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
@@ -222,7 +226,7 @@ I'm a passionate **Full-Stack Web Developer** with a deep interest in **AI/ML** 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debeshghorui&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debeshghorui&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170" width="95%"/>
 </div>
 
 <div align="center">

@@ -72,18 +72,13 @@ I'm a passionate **Full-Stack Web Developer** from **India 🇮🇳** with a dee
 
 <div align="center">
 
-<a href="https://github.com/debeshghorui/EcoNirvana">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=debeshghorui&repo=EcoNirvana&theme=radical&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/debeshghorui/GeoSentinel">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=debeshghorui&repo=GeoSentinel&theme=radical&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/debeshghorui/C-Extensions">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=debeshghorui&repo=C-Extensions&theme=radical&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/debeshghorui/Python-Projects">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=debeshghorui&repo=Python-Projects&theme=radical&hide_border=true&border_radius=15" />
-</a>
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌿 [**EcoNirvana**](https://github.com/debeshghorui/EcoNirvana) | Modern web app for e-waste management & recycling services. Track recycling activities and discover sustainable disposal options. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| 🛰️ [**GeoSentinel**](https://github.com/debeshghorui/GeoSentinel) | Change detection & monitoring system on user-defined AOI using multi-temporal LISS-4 satellite imagery. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 🔧 [**C-Extensions**](https://github.com/debeshghorui/C-Extensions) | Collection of C header files & utility functions to extend the standard C library with reusable, modular components. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| 🐍 [**Python-Projects**](https://github.com/debeshghorui/Python-Projects) | Curated collection of Python projects showcasing various concepts and practical applications. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🏠 [**Roomsy**](https://github.com/debeshghorui/Roomsy) | Full-stack room booking & management application. | ![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 </div>
 
@@ -91,23 +86,28 @@ I'm a passionate **Full-Stack Web Developer** from **India 🇮🇳** with a dee
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=debeshghorui&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=debeshghorui&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <a href="https://github.com/debeshghorui">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=debeshghorui&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=debeshghorui&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/debeshghorui">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debeshghorui&theme=radical&hide_border=true&border_radius=15&layout=compact&langs_count=8" alt="Top Languages"/>
+  </a>
+</p>
 
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debeshghorui&theme=radical&hide_border=true&border_radius=15&layout=compact&langs_count=8" alt="Top Languages"/>
-  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=debeshghorui&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
+<p align="center">
+  <a href="https://github.com/debeshghorui">
+    <img src="https://github-profile-trophy.vercel.app/?username=debeshghorui&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" width="95%"/>
+  </a>
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debeshghorui&theme=rogue&hide_border=true&area=true&radius=16" width="95%" alt="Activity Graph"/>
-</div>
+</p>
 
 ---
 

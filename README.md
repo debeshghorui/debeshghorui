@@ -24,7 +24,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I'm a passionate **Full-Stack Web Developer** from **India 🇮🇳** with a deep fascination for **AI/ML** and **Generative AI**. I love building modern, scalable web applications and exploring how AI can transform the way we interact with technology.
+I'm a passionate **Full-Stack Web Developer** with a deep fascination for **AI/ML** and **Generative AI**. I love building modern, scalable web applications and exploring how AI can transform the way we interact with technology.
 
 - 🔭 **Currently working on** GenAI-powered web applications
 - 🌱 **Currently learning** TensorFlow, LLM integrations & System Design

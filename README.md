@@ -8,8 +8,8 @@
 
   <br/><br/>
 
-  <a href="https://inapp.app/debesh/0o7pha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://inapp.app/debesh/7o4vnu" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://inapp.app/debesh/linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://inapp.app/debesh/blog" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
   <a href="mailto:debeshghorui@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
   <br/>
@@ -30,7 +30,7 @@ I'm a passionate **Full-Stack Web Developer** from **India 🇮🇳** with a dee
 - 🌱 **Currently learning** TensorFlow, LLM integrations & System Design
 - 🎯 **Goal:** Become a proficient **GenAI Developer** building intelligent solutions
 - 🤝 **Looking for** mentorship & collaboration with senior AI engineers
-- ✍️ **I write tech blogs** on [Hashnode](https://inapp.app/debesh/7o4vnu)
+- ✍️ **I write tech blogs** on [Hashnode](https://inapp.app/debesh/blog)
 - ⚡ **Fun fact:** The best code is written with curiosity and coffee ☕
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
@@ -103,9 +103,9 @@ I'm always open to interesting conversations, collaborations, and new opportunit
 
 <br/>
 
-<a href="https://inapp.app/debesh/0o7pha" target="_blank"><img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://inapp.app/debesh/linkedin" target="_blank"><img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:debeshghorui@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://inapp.app/debesh/7o4vnu" target="_blank"><img src="https://img.shields.io/badge/Read_My_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+<a href="https://inapp.app/debesh/blog" target="_blank"><img src="https://img.shields.io/badge/Read_My_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
 
 </div>
 
